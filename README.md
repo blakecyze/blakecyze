@@ -22,7 +22,3 @@ If you've got an idea of any sort and you think I could help you with it, feel f
 Figma, React, Astro, Supabase, Pocketbase, Tauri, Unity
 
 <br>
-
-<a href="https://layers.to/blaketime"><img src="./assets/Layers.svg" height="40"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/blake-cyze"><img src="./assets/Linkedin.svg" height="40"></a>&nbsp;&nbsp;<a href="https://blaketime.com"><img src="./assets/Portfolio.svg" height="40"></a>
-
-
