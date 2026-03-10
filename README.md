@@ -20,5 +20,4 @@ If you've got an idea of any sort and you think I could help you with it, feel f
 <img src="./assets/Stack.svg" height="30">
 
 Figma, Paper, Next, React, Astro, Flutter, Supabase, Pocketbase, Tauri, Unity
-
 <br>
