@@ -15,10 +15,10 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
-- **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
-- **[d2ttk](https://d2ttk.com)** · a Destiny 2 weapon database and time-to-kill calculator. Share an exact roll as a link.
-- **[Model Bench](https://modelbench.app)** · run one prompt across a stack of LLMs, then let an AI judge score them blind.
-- **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
+ **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
+ **[d2ttk](https://d2ttk.com)** · a Destiny 2 weapon database and time-to-kill calculator. Share an exact roll as a link.
+ **[Model Bench](https://modelbench.app)** · run one prompt across a stack of LLMs, then let an AI judge score them blind.
+ **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
 <br>
 
