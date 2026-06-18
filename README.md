@@ -15,28 +15,10 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://gradients.fyi"><img src="./assets/projects/gradients.jpg" width="100%"></a>
-      <br><b>gradients.fyi</b> · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://d2ttk.com"><img src="./assets/projects/d2ttk.jpg" width="100%"></a>
-      <br><b>d2ttk</b> · a Destiny 2 weapon database and time-to-kill calculator. Share an exact roll as a link.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://modelbench.app"><img src="./assets/projects/modelbench.jpg" width="100%"></a>
-      <br><b>Model Bench</b> · run one prompt across a stack of LLMs, then let an AI judge score them blind.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://woodsmoke.app"><img src="./assets/projects/woodsmoke.jpg" width="100%"></a>
-      <br><b>Woodsmoke</b> · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
-    </td>
-  </tr>
-</table>
+- **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
+- **[d2ttk](https://d2ttk.com)** · a Destiny 2 weapon database and time-to-kill calculator. Share an exact roll as a link.
+- **[Model Bench](https://modelbench.app)** · run one prompt across a stack of LLMs, then let an AI judge score them blind.
+- **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
 <br>
 
