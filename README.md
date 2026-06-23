@@ -15,11 +15,13 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
+ **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
+  <br>
  **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
  <br>
  **[d2ttk](https://d2ttk.com)** · a Destiny 2 weapon database and time-to-kill calculator. Share an exact roll as a link.
  <br>
- **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
+ **[Modelbench](https://modelbench.app)** · AI performance arena. Automatically grade and compare various responses across a given task.
  <br>
  **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
