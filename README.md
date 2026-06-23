@@ -19,7 +19,7 @@ early access, and the silly little avatars are the bit people fall for first.
  <br>
  **[d2ttk](https://d2ttk.com)** · a Destiny 2 weapon database and time-to-kill calculator. Share an exact roll as a link.
  <br>
- **[Model Bench](https://modelbench.app)** · run one prompt across a stack of LLMs, then let an AI judge score them blind.
+ **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
  <br>
  **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
