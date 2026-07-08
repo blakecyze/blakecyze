@@ -8,7 +8,7 @@ Mostly I just like watching an idea turn into something you can actually open.
 <img src="./assets/Currently.svg" height="44">
 
 Full-time Lead Product Engineer at **[Avatone](https://avatone.co)**, a gamified fitness app. I touch most of
-it: design, frontend, backend, branding, the odd pitch deck. We're past 40,000 people in
+it: design, frontend, backend, branding, the odd pitch deck. We're past 60,000 people in
 early access, and the silly little avatars are the bit people fall for first.
 
 <br>
