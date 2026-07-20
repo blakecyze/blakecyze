@@ -15,7 +15,7 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
- **[d2ttk](https://d2ttk.com)** · Destiny 2 weapon database and time-to-kill calculator. 12k+ monthly users.
+ **[d2ttk](https://d2ttk.com)** · Destiny 2 weapon database and time-to-kill calculator. 18k+ monthly users.
  <br>
  **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
   <br>
