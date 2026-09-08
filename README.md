@@ -15,9 +15,9 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
- **[d2ttk](https://d2ttk.com)** · Destiny 2 weapon database and time-to-kill calculator. 18k+ monthly users.
- <br>
  **[otoya.app](https://otoya.app)** · hyper optimised mechanical keyboard soundboard; tied to your actual keystrokes.
+ <br>
+  **[d2ttk](https://d2ttk.com)** · Destiny 2 dynamic weapon database and time-to-kill calculator. 24k+ monthly users.
  <br>
  **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
  <br>
