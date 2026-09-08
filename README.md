@@ -17,11 +17,13 @@ early access, and the silly little avatars are the bit people fall for first.
 
  **[d2ttk](https://d2ttk.com)** · Destiny 2 weapon database and time-to-kill calculator. 18k+ monthly users.
  <br>
- **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
-  <br>
+ **[otoya.app](https://otoya.app)** · hyper optimised mechanical keyboard soundboard; tied to your actual keystrokes.
+ <br>
  **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
  <br>
- **[Modelbench](https://modelbench.app)** · AI performance arena. Automatically grade and compare various responses across a given task.
+ **[whowrote.dev](https://whowrote.dev)** · Spotify wrapped but for your repos; see who did what and how much- playfully!
+ <br>
+ **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
  <br>
  **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
