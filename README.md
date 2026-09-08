@@ -23,9 +23,9 @@ early access, and the silly little avatars are the bit people fall for first.
  <br>
  **[whowrote.dev](https://whowrote.dev)** · Spotify wrapped but for your repos; see who did what and how much- playfully!
  <br>
- **[Jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
+ **[jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
  <br>
- **[Woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
+ **[woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
 <br>
 
