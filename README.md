@@ -15,7 +15,7 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
- **[ittybitty.dev](https://ittybitty.dev)** · blazing fast stackable shaders. Creative and performant!
+ **[ittybitty.dev](https://ittybitty.dev)** · blazing fast stackable shaders. Creative, agent friendly, and performant!
  <br>
  **[otoya.app](https://otoya.app)** · hyper optimised mechanical keyboard soundboard; tied to your actual keystrokes.
  <br>
