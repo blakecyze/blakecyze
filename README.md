@@ -15,6 +15,8 @@ early access, and the silly little avatars are the bit people fall for first.
 
 <img src="./assets/ThingsIveMade.svg" height="44">
 
+ **[ittybitty.dev](https://ittybitty.dev)** · blazing fast stackable shaders. Creative and performant!
+ <br>
  **[otoya.app](https://otoya.app)** · hyper optimised mechanical keyboard soundboard; tied to your actual keystrokes.
  <br>
   **[d2ttk](https://d2ttk.com)** · Destiny 2 dynamic weapon database and time-to-kill calculator. 24k+ monthly users.
@@ -22,10 +24,6 @@ early access, and the silly little avatars are the bit people fall for first.
  **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
  <br>
  **[whowrote.dev](https://whowrote.dev)** · Spotify wrapped but for your repos; see who did what and how much- playfully!
- <br>
- **[jaune](https://jaune.design)** · hypothetical fashion brand. Modern, bold, unique.
- <br>
- **[woodsmoke](https://woodsmoke.app)** · a camping planner for Canadian parks. Weather, fire risk, bear country, one map.
 
 <br>
 
