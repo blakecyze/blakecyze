@@ -22,8 +22,6 @@ early access, and the silly little avatars are the bit people fall for first.
   **[d2ttk](https://d2ttk.com)** · Destiny 2 dynamic weapon database and time-to-kill calculator. 24k+ monthly users.
  <br>
  **[gradients.fyi](https://gradients.fyi)** · a free OKLCH mesh-gradient editor. Grain, blur, dither, and no subscription for a blurry blob.
- <br>
- **[whowrote.dev](https://whowrote.dev)** · Spotify wrapped but for your repos; see who did what and how much- playfully!
 
 <br>
 
